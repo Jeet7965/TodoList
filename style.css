@@ -113,11 +113,13 @@ span {
 .box-1 input {
    font-size: 17px;
    padding: 10px 15px ;
+    width:60%;
     
  }
  
  .box-1 button {
     font-size: 17px;
+     widht:30%
   
  }
 }
